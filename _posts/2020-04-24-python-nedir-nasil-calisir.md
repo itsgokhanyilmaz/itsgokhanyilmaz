@@ -6,7 +6,7 @@ tags: [python, programming]
 comments: true
 ---
 
-Merhabalar, bu makale ile birlikte Python programlama diline genel bir giriş yapıyor olacağız ve ilerledikçe daha da kompleks yapıları inceliyor olacağız. Bu yazı dizisine başlamamın amacı aslında türkçe kaynak eksikliğini bir nebze de olsa gidermek. Elimden geldiğince açıklayıcı ve bilgilendirici bir yazı sunmak istiyor ve isterseniz lafı çok fazla uzatmadan başlayalım :)
+Merhabalar, bu makale ile birlikte Python programlama diline genel bir giriş yapıyor olacağız ve ilerledikçe daha da kompleks yapıları inceliyor olacağız. Bu yazı dizisine başlamamın amacı aslında türkçe kaynak eksikliğini bir nebze de olsa gidermek. Elimden geldiğince açıklayıcı ve bilgilendirici bir yazı olmasını diliyorum ve lafı uzatmadan hızlıca bir giriş yapalım :)
 
 ## Python
 
