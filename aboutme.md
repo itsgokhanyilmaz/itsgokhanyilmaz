@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Ben Gokhan Yilmaz. Sakarya Üniversitesi Bilgisayar ve Bilişim Bilimleri Fakültesi Bilgisayar mühendisliği bölümünden 2018 yılında mezun oldum. Şu an da özel bir teknoloji firmasında Software Engineer olarak görev yapmaktayım. Aynı zamanda Python, Django ve React tabanlı web uygulamaları üzerine çalışmaktayım. 
 
-What else do you need?
 
-### my history
+My name is Gokhan Yilmaz. I've graduated from Sakarya University as a computer engineer. I've been working on Python, Django and React based web application as a software engineer in a technology company. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+[Linkedin](https://www.linkedin.com/in/itsgokhanyilmaz/)
+
+[Github](https://github.com/itsgokhanyilmaz)
