@@ -6,7 +6,7 @@ tags: [python, programming]
 comments: true
 ---
 
-Merhabalar, bu makale ile birlikte Python programlama diline genel bir giriş yapıyor olacağız ve ilerledikçe daha da kompleks yapıları inceliyor olacağız. Bu yazı dizisine başlamamın amacı aslında türkçe kaynak eksikliğini bir nebze de olsa gidermek. Elimden geldiğince açıklayıcı ve bilgilendirici bir yazı sunmak istiyor ve isterseniz lafı çok fazla uzatmadan başlayalım diyorum :)
+Merhabalar, bu makale ile birlikte Python programlama diline genel bir giriş yapıyor olacağız ve ilerledikçe daha da kompleks yapıları inceliyor olacağız. Bu yazı dizisine başlamamın amacı aslında türkçe kaynak eksikliğini bir nebze de olsa gidermek. Elimden geldiğince açıklayıcı ve bilgilendirici bir yazı sunmak istiyor ve isterseniz lafı çok fazla uzatmadan başlayalım :)
 
 ## Python
 
@@ -18,12 +18,12 @@ Python, **Guido Van Rossum** tarafından Amsterdam'da bir hobi projesi olarak 19
 Eğer C veya C++ gibi bir dil ile program yazarsanız programınızı derlemek zorunda kalırsınız. Bu Derleme işlemi yazdığınız kodun makine tarafından anlaşılabilir olmasını sağlar yani makine koduna çevirir. Makine kodu ise, CPU tarafından doğrudan çalıştırılan talimatların temel düzeydeki bir formudur diyebiliriz. Başarılı bir derleme sonrasında çalıştırılabilir(executable) bir dosya oluşturulur. Bu dosyanın execute edilmesi durumunda ise kodunuz adım adım çalıştırılır. 
 
 Derleme süreci 4 aşamadan oluşur:
-  1. Ön işleme (Pre processing)
-  2. Derleme (Compilation)
-  3. Çevirme (Assembly)
-  4. Bağlama (Linking)
+ - Ön işleme (Pre processing)
+ - Derleme (Compilation)
+ - Çevirme (Assembly)
+ - Bağlama (Linking)
  
-Şimdi Python'ın nasıl bir dil ve genelde kafa karıştıran bu duruma açıklık getirelim. Python aslında her iki işlemi de yapar yani hem compile eder hem de yorumlar. Peki, ama nasıl? Python'a kodumuzu çalıştırmasını söylediğimizde source code bir kaç adımdan geçecektir.
+Şimdi Python'ın nasıl bir dil olduğuna ve genelde kafa karıştıran bu durumuna açıklık getirelim. Python aslında her iki işlemi de yapmaktadır yani hem compile eder hem de yorumlar. Peki, ama nasıl? Python'a kodumuzu çalıştırmasını söylediğimizde source code bir kaç adımdan geçecektir.
 
 1. Önce Bytecode'a derlenir.
 2. Derlemeden sonra sanal makineye(Python Virtual Machine) yönlendirilir.
